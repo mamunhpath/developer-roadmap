@@ -1,62 +1,63 @@
-![Web Developer Roadmap](http://i.imgur.com/GyvcunJ.png)
+![Web Developer Roadmap - 2020](https://i.imgur.com/NNyc9QM.png)
 
-> Roadmap to becoming a web developer in 2017
+> Roadmap to becoming a web developer in 2020
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
+[![](https://img.shields.io/badge/-Detailed%20Content%20on%20the%20Website%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
 
-If you think that these can be improved in anyway, please do suggest.
+Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
+
+***
+<p align="center"><b> 🎉 We are working on an extended version of these roadmaps 🎉 </b><br>Keep your eyes on <a href="http://roadmap.sh">roadmap.sh</a> for the updates!</p>
 
 ***
 
-<p align="center"><b> Did you like this guide and want more of the similar content? </b><br>Subscribe for the launch of <a href="http://hugobots.com">Hugobots</a> or <a href="http://twitter.com/kamranahmedse">follow me on twitter</a>!</p>
+<h3 align="center"><strong>Purpose of these Roadmaps</strong></h3>
+
+> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy never means best suited for the job.
+
+<h3 align="center"><strong>Note to Beginners</strong></h3>
+
+> These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. We are working on the beginner versions of these and will [release it soon](https://roadmap.sh) after we are done with the 2020 release of the Backend and DevOps roadmaps.
 
 ***
 
+If you think that these can be improved in any way, please do suggest.
 
-## 🚀 Introduction
+## Introduction
 
-![](https://i.imgur.com/MWkeM18.png)
+![Web Developer Roadmap Introduction](./img/intro.png)
 
-## 🎨 Front-end Roadmap
+## Frontend Roadmap
 
-![](https://i.imgur.com/qx54HvK.png)
+[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/frontend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/frontend)
 
-## 👽 Back-end Roadmap
+![Frontend Roadmap](./img/frontend.png?year-2020-2)
 
-For the backend, personally I would prefer Node.js and PHP 7 for the full time. Plus, I have been experimenting lately with Go and I quite like it. Apart from these, if I have to choose another one, I would go for Ruby. However this is just my personal preference, you can choose any of the shown languages and you will be good.
+## Back-end Roadmap 
 
-![](https://i.imgur.com/jz4xrlQ.png)
+[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/backend-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/backend)
 
-## 👷 DevOps Roadmap
+![Back-end Roadmap](./img/backend.png?year-2020-1)
 
-![](https://i.imgur.com/z23zTH3.png)
+## DevOps Roadmap
 
-<br>
+[![](https://img.shields.io/badge/-Download%20PDF%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://gum.co/devops-roadmap) [![](https://img.shields.io/badge/-Shareable%20Link%20-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://roadmap.sh/devops)
+
+![DevOps Roadmap](./img/devops.png)
 
 ## 🚦 Wrap Up
 
-If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
+If you think any of the roadmaps can be improved, feel free to discuss it in the issues. Also, I will continue to improve this, so you might want to watch this repository or subscribe at [roadmap.sh](http://roadmap.sh) to revisit.
 
-## ☑ TODO
+## 🙌 Contribution
 
-- [X] Add Frontend Roadmap
-- [X] Add Backend Roadmap
-- [X] Add DevOps Roadmap
-- [ ] Add relevant resources for each
-
-## 👬 Contribution
-
-The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/). Project file can be found at `/project-files` directory. To modify any of the roadmaps, open Balsamiq, click **Project > Import > Mockup JSON**, it will open the roadmap for you, update it, upload and update the images in readme and create a PR.		
+> Have a look at [contribution docs](./CONTRIBUTING.md) for how to update any of the roadmaps
 
 - Open pull request with improvements
 - Discuss ideas in issues
 - Spread the word
 - Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
-
-## Sponsored By
-
-- [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
-
+ 
 ## License
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+Have a look at the [license file](./LICENSE) for details
